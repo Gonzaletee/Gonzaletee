@@ -10,13 +10,23 @@
 <h1 align="center">TECHNOLOGY</h1>
 
 <p align="center">
- 
 <img src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="Logotipo de Power BI" width="200" height="134" >
 <img src="https://b-new.be/wp-content/uploads/2020/07/TB-768x528.png" alt="Logotipo de Power BI" width="300" height="200">
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="Logotipo de MySQL" >
 <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Logotipo de Python">
-
 </p>
+
+<h1 align="center">PROYECTS :computer:</h1>
+
+<h2 align="left">
+- <a href="https://github.com/Gonzaletee/portafolioexcel" target="_blank" rel="noopener noreferrer">Microsoft Excel</a>
+
+ 
+</h2> 
+
+
+
+
 
 
 <!--
@@ -32,4 +42,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
