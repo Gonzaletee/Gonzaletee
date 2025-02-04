@@ -1,9 +1,9 @@
-## Hi im Gonzalo Dauvn 👋
+## Hi i'm Gonzalo Dauvin 👋
 
-<h3 align="center">I'm an Business Administrationand and an enthusiast of statistics and data analysis. In this portfolio, I aim to present my most significant projects, highlighting my skills and learning.".</h3>
+<h3 align="center">I'm an Business Administrationand and an enthusiast of statistics and data analysis. In this portfolio, I aim to present my most significant projects, highlighting my skills and learning.</h3>
 
  - 🔭 I’m currently working as a mathematics teacher and independent analyst.
- - 🌱 I’m currently learning Power BI and MySQL.
+ - 🌱 I’m constantly learning.
  - 📫 How to reach me: gonzalodauvin@gmail.com
 
 
@@ -17,12 +17,12 @@
 </p>
 
 <h1 align="center">PROYECTS :computer:</h1>
+Hello! I am currently uploading new projects to this repository. I invite you to review them and share your feedback; your input is very valuable to me. This section will be continuously updated with fresh content.
 
 <h2 align="left">
  
 - <a href="https://github.com/Gonzaletee/portafolioexcel" target="_blank" rel="noopener noreferrer">Microsoft Excel</a>
-
- 
+- <a href="https://github.com/Gonzaletee/python/blob/main/README.md" target="_blank" rel="noopener noreferrer">Python</a>
 </h2> 
 
 
