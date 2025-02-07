@@ -22,8 +22,8 @@ Hello! I am currently uploading new projects to this repository. I invite you to
 <h2 align="left">
  
 - <a href="https://github.com/Gonzaletee/portafolioexcel" target="_blank" rel="noopener noreferrer">Microsoft Excel</a>
-- <a href="https://github.com/Gonzaletee/python/blob/main/README.md" target="_blank" rel="noopener noreferrer">Python</a>
-- <a href="https://github.com/Gonzaletee/mysql/blob/main/README.md" target="_blank" rel="noopener noreferrer">Mysql</a>
+- <a href="https://github.com/Gonzaletee/python" target="_blank" rel="noopener noreferrer">Python</a>
+- <a href="https://github.com/Gonzaletee/mysql" target="_blank" rel="noopener noreferrer">Mysql</a>
 </h2> 
 
 
