@@ -1,6 +1,6 @@
 ## Hi i'm Gonzalo Dauvin 👋
 
-<h3 align="center">I'm an Business Administrationand and an enthusiast of statistics and data analysis. In this portfolio, I aim to present my most significant projects, highlighting my skills and learning.</h3>
+<h3 align="center">I'm an Business Administration and an enthusiast of statistics and data analysis. In this portfolio, I aim to present my most significant projects, highlighting my skills and learning.</h3>
 
  - 🔭 I’m currently working as a mathematics teacher and independent analyst.
  - 🌱 I’m constantly learning.
