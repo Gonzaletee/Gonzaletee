@@ -1,11 +1,6 @@
-## Hi i'm Gonzalo Dauvin 👋
+## Gonzalo Dauvin | Portafolio de Análisis de Datos 👋
 
-<h3 align="center">I'm an Business Administration and an enthusiast of statistics and data analysis. In this portfolio, I aim to present my most significant projects, highlighting my skills and learning.</h3>
-
- - 🔭 I’m currently working as a mathematics teacher and independent analyst.
- - 🌱 I’m constantly learning.
- - 📫 How to reach me: gonzalodauvin@gmail.com
-
+<h3 align="center">Ingeniero Comercial con formación en análisis de datos, estadística aplicada y visualización de información. En este portafolio presento proyectos desarrollados con Python, SQL, Excel y Power BI, orientados a limpieza, análisis exploratorio, visualización e interpretación de datos para apoyar la toma de decisiones 🌱.</h3>
 
 <h1 align="center">TECHNOLOGY</h1>
 
@@ -16,8 +11,8 @@
 <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Logotipo de Python">
 </p>
 
-<h1 align="center">PROYECTS :computer:</h1>
-Hello! I am currently uploading new projects to this repository. I invite you to review them and share your feedback; your input is very valuable to me. This section will be continuously updated with fresh content.
+<h1 align="center">PROYECTOS :computer:</h1>
+Estoy subiendo nuevos proyectos a este repositorio, te invito a revisarlos y compartir tus comentarios; tu opinión es muy valiosa para mí. Esta sección se actualizará continuamente con contenido nuevo.
 
 <h2 align="left">
  
